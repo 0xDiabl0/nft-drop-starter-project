@@ -1,0 +1,19 @@
+{
+    "name": "BUILDSPACE_SS_1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CJ3dn42RMixMFMaCp5xmhoYLFQJ8iPvxfdKZUqFPSM8u",
+          "share": 100
+        }
+      ]
+    }
+  }
